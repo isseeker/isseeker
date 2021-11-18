@@ -2,7 +2,7 @@
 - 👀 I’m interested in advanced text summarization techniques.
 - 🌱 I’m currently learning to get a Master's Degree!
 - 💞️ I’m looking to collaborate on Natural Language Processing
-- 📫 You can reach me by email jtzhao1002@163.com
+- 📫 You can reach me by email 
 
 
 <!---
